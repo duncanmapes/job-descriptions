@@ -51,7 +51,7 @@ DevOps Engineers must be able to adjust to constant business change; common type
   - MS Build
   - Nuget
   - NPM
-  - Grade
+  - Gradle
 - Understand and working knowledge of Artifact Repositories:
   - Artifactory
   - Nexus
