@@ -69,6 +69,14 @@ DevOps Engineers must be able to adjust to constant business change; common type
   - StyleCop
 - Understand and experience with Security and Vulnerability Scanning:
   - OWASP
+- Experience and working knowledge of Database administration
+  - SQL
+    - MySQL
+    - MsSQL
+    - Oracle
+  - NoSQL
+    - MongoDB
+    - Redis
 
 
 
